@@ -1,6 +1,5 @@
 
-<!-- saved from url=(0068)https://raw.githubusercontent.com/ferdinand91/tpeshell/master/sys.sh -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">#!/bin/bash
+#!/bin/bash
 
 clear
 sleep 6 
@@ -80,4 +79,4 @@ case $n in
 ;;
 	* )  exit;;
 	
-esac</pre></body></html>
+esac
